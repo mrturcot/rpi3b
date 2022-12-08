@@ -1,2 +1,2 @@
 # rpi3b
-rpi3b kernel stuff
+Raspberry Pi 3 B arm64 Kernel stuff
