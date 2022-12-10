@@ -4,6 +4,9 @@
 
 Cross-aarch64 (arm64), Gentoo x86_64 Host using GCC-12 thats been compiled with Graphite, LTO, & PGO optimizations.
 
+Im currently running it on my Gentoo-Pi and Debian Pi-hole :)
+
+
 ```
 mrturcot@Pi-hole:~ $ screenfetch 
          _,met$$$$$gg.           mrturcot@Pi-hole
