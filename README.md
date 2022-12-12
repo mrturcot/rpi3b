@@ -4,6 +4,13 @@
 
 Cross-aarch64 (arm64), Gentoo x86_64 Host using GCC-12 thats been compiled with Graphite, LTO, & PGO optimizations.
 
+Filthy kernel features
+ - KVM
+ - SELinux
+ - Some Hardening enabled
+ - SECURITY_YAMA
+ - SECURITY_LANDLOCK
+
 Im currently running it on my GentooPi
 
 ```
