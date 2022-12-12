@@ -4,8 +4,33 @@
 
 Cross-aarch64 (arm64), Gentoo x86_64 Host using GCC-12 thats been compiled with Graphite, LTO, & PGO optimizations.
 
-Im currently running it on my Gentoo-Pi and Debian Pi-hole :)
+Im currently running it on my GentooPi
 
+```
+ mrturcot  on GentooRig /home/mrturcot/github/rpi3b on   main took 10s
+[ 01:04:30 AM ] ➜ ssh mrturcot@192.168.1.104
+mrturcot@GentooPi ~ $ neofetch 
+         -/oyddmdhs+:.                mrturcot@GentooPi 
+     -odNMMMMMMMMNNmhy+-`             ----------------- 
+   -yNMMMMMMMMMMMNNNmmdhy+-           OS: Gentoo Linux aarch64 
+ `omMMMMMMMMMMMMNmdmmmmddhhy/`        Host: Raspberry Pi 3 Model B Rev 1.2 
+ omMMMMMMMMMMMNhhyyyohmdddhhhdo`      Kernel: 6.1.0-rc8-filthy+ 
+.ydMMMMMMMMMMdhs++so/smdddhhhhdm+`    Uptime: 9 mins 
+ oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.   Packages: 385 (emerge) 
+  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh   Shell: bash 5.2.12 
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy   Terminal: /dev/pts/0 
+       /mMMMMMMNNNmmmdddhhhhhmMNhs:   CPU: ARM Cortex-A53 (4) @ 1.000GHz 
+    `oNMMMMMMMNNNmmmddddhhdmMNhs+`    Memory: 43MiB / 922MiB 
+  `sNMMMMMMMMNNNmmmdddddmNMmhs/.
+ /NMMMMMMMMNNNNmmmdddmNMNdso:`                                
++MMMMMMMNNNNNmmmmdmNMNdso/-                                   
+yMMNNNNNNNmmmmmNNMmhs+/-`
+/hMMNNNNNNNNMNdhs++/-`
+`/ohdmmddhys+++/:.`
+  `-//////:--.
+```
+
+ and Debian Pi-hole :)
 
 ```
 mrturcot@Pi-hole:~ $ screenfetch 
