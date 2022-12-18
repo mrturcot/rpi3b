@@ -21,7 +21,7 @@ mrturcot@GentooPi ~ $ neofetch
      -odNMMMMMMMMNNmhy+-`             ----------------- 
    -yNMMMMMMMMMMMNNNmmdhy+-           OS: Gentoo Linux aarch64 
  `omMMMMMMMMMMMMNmdmmmmddhhy/`        Host: Raspberry Pi 3 Model B Rev 1.2 
- omMMMMMMMMMMMNhhyyyohmdddhhhdo`      Kernel: 6.1.0-rc8-filthy+ 
+ omMMMMMMMMMMMNhhyyyohmdddhhhdo`      Kernel: 6.1.0-filthy+ 
 .ydMMMMMMMMMMdhs++so/smdddhhhhdm+`    Uptime: 9 mins 
  oyhdmNMMMMMMMNdyooydmddddhhhhyhNd.   Packages: 385 (emerge) 
   :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh   Shell: bash 5.2.12 
@@ -43,7 +43,7 @@ yMMNNNNNNNmmmmmNNMmhs+/-`
 mrturcot@Pi-hole:~ $ screenfetch 
          _,met$$$$$gg.           mrturcot@Pi-hole
       ,g$$$$$$$$$$$$$$$P.        OS: Debian  bookworm
-    ,g$$P""       """Y$$.".      Kernel: aarch64 Linux 6.1.0-rc8-filthy
+    ,g$$P""       """Y$$.".      Kernel: aarch64 Linux 6.1.0-filthy
    ,$$P'              `$$$.      Uptime: 1h 24m
   ',$$P       ,ggs.     `$$b:    Packages: 650
   `d$$'     ,$P"'   .    $$$     Shell: bash 5.2.2
