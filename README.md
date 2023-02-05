@@ -2,10 +2,9 @@
  - Raspberry Pi 3B 64 Bit Kernel
  - sources https://github.com/raspberrypi/linux/blob/rpi-6.2.y/COPYING
 
-Cross-aarch64 (arm64), Gentoo x86_64 Host using GCC-12 thats been compiled with Graphite, LTO, & PGO optimizations.
+Cross-aarch64 (arm64), Kernel built with Gentoo x86_64 Host using Clang 15 Thin-LTO.
 
 Filthy kernel features
- - KVM
  - SELinux
  - Some Hardening enabled
  - SECURITY_YAMA
